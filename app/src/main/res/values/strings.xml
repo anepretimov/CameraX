@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraXfirst</string>
+    <string name="btn">get photo</string>
+</resources>
